@@ -42,7 +42,7 @@ console.log(typeof myFunction)//function
 
 
 // type definition not necessary
-//dynamically typed language
+// dynamically typed language
 
 
 
