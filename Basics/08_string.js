@@ -44,7 +44,7 @@ const guess = "Sushant-Khanal-Bhaktapur"
 
 console.log(guess.split('-'));// removes -
 
-
+//more to explore
 
 
 
