@@ -14,7 +14,7 @@ let isLoggedIn = true //boolean
 // undefined => not defined with value yet; only variable declared [let state;]
 //symbol => unique
 
-//object
+//object..
 
 console.log(typeof "hello");//string
 console.log(typeof null);//object

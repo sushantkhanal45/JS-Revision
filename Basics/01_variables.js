@@ -3,7 +3,7 @@ let emial = "hello world"
 //var not recently used due to its scope malfunctioning..works as global scope
 var acno = "12345"
 city = "Bhaktapur"
-//variables assigned to memory
+//variables assigned to memory..
 
 
 //changing values

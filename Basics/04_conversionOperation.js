@@ -21,4 +21,4 @@ console.log(booleanIsLoggedIN);
 let guess = 33
 let stringNumber = String(guess)
 console.log(stringNumber);
-console.log(typeof stringNumber);
+console.log(typeof stringNumber)

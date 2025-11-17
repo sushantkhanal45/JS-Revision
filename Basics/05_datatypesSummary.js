@@ -18,7 +18,7 @@ console.log(id === anotherId);//false since value is same return type is not sam
 const bigNumber = 3333333444444445555n
 
 
-//reference type - non primitive
+//reference type - non primitive..
 // memory reference can be directly allocated
 
 // Array, Objects, Functions
