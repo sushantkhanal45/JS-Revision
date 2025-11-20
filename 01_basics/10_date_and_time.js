@@ -37,6 +37,10 @@ newDate.toLocaleString('default', {
 
 console.log(newDate);
 
+//that not much enough, will have to try everything..this much is just for practice as it is revision for me..
+//if you are planning to go through it.. go for ctrl+space with your function for all better options..
+
+
 
 
 
