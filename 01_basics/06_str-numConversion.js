@@ -18,7 +18,7 @@ let str2 = "world"
 let str3 = str1 + str2
 // console.log(str3); //helloworld
 
-// console.log("1" + 2); //12
+// console.log("1" + 2); //12 "denotes string"
 // console.log(1 + "2" ); //12
 
 // console.log("1" + 2 + 2 )//122
