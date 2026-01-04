@@ -36,6 +36,7 @@ const myFunction = function(){
 
 console.log(typeof scoreValue);// number
 console.log(typeof myFunction)//function
+console.log(typeof heros)//object
 
 
 // type definition not necessary
