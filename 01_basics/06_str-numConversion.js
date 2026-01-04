@@ -25,7 +25,8 @@ let str3 = str1 + str2
 
 // console.log(1 + 2 + "2" )//32
 // console.log(1 + "2" + 2 )//122
-// console.log(1 + 2 + "2" )//122
+// console.log("1" + 2 + 2 )//122
+// console.log(1 + 2 + "2" )//32
 
 // console.log(true);//true
 // console.log(+true);//1
