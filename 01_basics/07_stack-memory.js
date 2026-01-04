@@ -20,6 +20,6 @@ let userTwo = userOne
 
 userTwo.email = "potter@gmail.com"
 
-console.log(userOne.email);
-console.log(userTwo.email);
+console.log(userOne.email);//potter@gmail.com
+console.log(userTwo.email);//potter@gmail.com
 //.
