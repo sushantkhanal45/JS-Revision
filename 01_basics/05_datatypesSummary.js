@@ -38,9 +38,6 @@ console.log(typeof scoreValue);// number
 console.log(typeof myFunction)//function
 
 
-
-
-
 // type definition not necessary
 // dynamically typed language
 
