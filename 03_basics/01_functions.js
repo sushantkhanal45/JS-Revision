@@ -75,7 +75,7 @@ const result = addTwoNumbers(3,6)
 //same function but checking for another purpise.....
 function loginUserMessage (username){
     if(!username){
-        console.log("Please enter a username");
+        // console.log("Please enter a username");
         return 
     }
 return `${username} just logged in`
@@ -85,16 +85,47 @@ return `${username} just logged in`
 //for default value add something in username
 function loginUserMessage (username = "sam"){// the value cant be undefined atleast it will return sam..
     if(!username){
-        console.log("Please enter a username");
+        // console.log("Please enter a username");
         return 
     }
 return `${username} just logged in`
 }
-console.log(loginUserMessage());// sam just logged in
-console.log(loginUserMessage("Sushant"));//this will override once the valu is given and print my name..
+// console.log(loginUserMessage());// sam just logged in
+// console.log(loginUserMessage("Sushant"));//this will override once the valu is given and print my name..
 
 
+function calculateCartPrice (val1, val2, ...num1) { // ... is rest and spread operator based on condition... here rest is used..  bundle the prices and return result..gives the prices in array here..
 
+    return num1
+}
+
+// console.log(calculateCartPrice(200, 400, 500, 2000));// 200 gotes to val1, and 400 to val2 then...
+
+const user = {
+    username: "Sushant",
+    price: 400
+
+}
+
+function handleObject(anyObject){
+    console.log(`Username is ${anyObject.username} and price is ${anyObject.price}`);
+    
+}
+
+// handleObject(user)//Username is Sushant and price is 400..type safety should be checked.. typescript checks type..
+
+handleObject({
+    username: "Ssam",
+    price: 500
+})//Username is Ssam and price is 500
+
+const myNewArray = [200, 400, 100, 600]
+
+function returnSecondValue(getArray){
+    return getArray[1]
+}
+
+console.log(returnSecondValue(myNewArray));//400
 
 
 
