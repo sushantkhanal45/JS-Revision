@@ -82,3 +82,4 @@ const addTwo = function(num){
 
 console.log(addTwo(5));
 
+//scopes completed...
