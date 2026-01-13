@@ -127,6 +127,9 @@ function returnSecondValue(getArray){
 
 console.log(returnSecondValue(myNewArray));//400
 
+//docs left..tbs from mdn web docs
+
+
 
 
 
