@@ -71,7 +71,7 @@ const course ={
 // const {courseIinstructor} = course
 // console.log(courseIinstructor);// as specified..
 
-const {courseIinstructor: instructor} = course
+// const {courseIinstructor: instructor} = course
 // console.log(instructor); same as above just specifying instructor in place of courseInstructor..in case of courseinstructor feels ng then can be modified...
 
 
