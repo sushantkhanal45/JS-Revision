@@ -56,4 +56,4 @@ welcomeMessage : function(){
 const addTwo = (num1, num2) => ({username : "Sushant"}
 )
 
-console.log(addTwo(2,3));// { username: 'Sushant' } no use of 2,3 just an example copied from above
+// console.log(addTwo(2,3));// { username: 'Sushant' } no use of 2,3 just an example copied from above
