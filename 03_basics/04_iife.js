@@ -1,6 +1,7 @@
 // Immediately Invoked Function Expression (IIFE)
 
 (function db(){
+    //named iife
     console.log(`DB Connected`);
     
 }) ();
