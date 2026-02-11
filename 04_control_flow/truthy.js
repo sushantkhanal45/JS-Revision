@@ -19,7 +19,7 @@ if (userEmail) {
 
 const emptyObj = {}
 
-if (Object.keys(emptyObj).length === 0) {
+if (Object.keys(emptyObj).length === 0) { //  (Object.keys(emptyObj) this returns array, so checking length for array as above..
     console.log("Object is empty");
 }
 
